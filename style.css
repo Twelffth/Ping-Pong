@@ -1,0 +1,51 @@
+body {
+    background-size: cover;
+    font-family: 'Fredericka the Great', serif;
+}
+
+.heading {
+
+    width: 100%;
+    height: 115px;
+    letter-spacing: 5px;
+    color: #fcf1eb;
+    background-color: #272625;
+    pointer-events: none;
+}
+
+#btn1{
+    background-color: #fef9f5;
+    color: #272625;
+    font-size: 16px;
+    letter-spacing: 2px;
+    pointer-events: all;
+}
+
+#btn2{
+    background-color: #272625;
+    color: #fef9f5;
+    font-weight: 900;
+    font-size: 17px;
+    width: 110px;
+    height: 40px;
+    letter-spacing: 2px;
+}
+
+#status{
+    background-color: #272625;
+    color: #fef9f5;
+    font-weight: 900;
+    font-size: 17px;
+    width: 160px;
+    height: 40px;
+    letter-spacing: 2px;
+}
+
+
+canvas {
+    outline: #e6c3a8 5px dotted;
+    margin-top: 80px;
+    border-radius: 10px;
+    border: #272625;
+
+}
